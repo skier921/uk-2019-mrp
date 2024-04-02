@@ -1,0 +1,48 @@
+# stan_version_major = 2
+# stan_version_minor = 34
+# stan_version_patch = 1
+# model = model_model
+# start_datetime = 2024-04-02 07:31:32 UTC
+# method = sample (Default)
+#   sample
+#     num_samples = 1000 (Default)
+#     num_warmup = 500
+#     save_warmup = 0 (Default)
+#     thin = 1 (Default)
+#     adapt
+#       engaged = 1 (Default)
+#       gamma = 0.05 (Default)
+#       delta = 0.8 (Default)
+#       kappa = 0.75 (Default)
+#       t0 = 10 (Default)
+#       init_buffer = 75 (Default)
+#       term_buffer = 50 (Default)
+#       window = 25 (Default)
+#       save_metric = 0 (Default)
+#     algorithm = hmc (Default)
+#       hmc
+#         engine = nuts (Default)
+#           nuts
+#             max_depth = 10 (Default)
+#         metric = diag_e (Default)
+#         metric_file =  (Default)
+#         stepsize = 1 (Default)
+#         stepsize_jitter = 0 (Default)
+#     num_chains = 1 (Default)
+# id = 4
+# data
+#   file = /var/folders/vv/n1q76g7d4f35zzj1q47755yh0000gn/T/tmpn434n6kw/iy9lmp9q.json
+# init = 2 (Default)
+# random
+#   seed = 91167
+# output
+#   file = /Users/reedgarvin/Documents/GitHub/uk-2019-mrp/01_code/model-20240402093132_4.csv
+#   diagnostic_file =  (Default)
+#   refresh = 50
+#   sig_figs = -1 (Default)
+#   profile_file = profile.csv (Default)
+#   save_cmdstan_config = 0 (Default)
+# num_threads = 1 (Default)
+# stanc_version = stanc3 v2.34.0
+# stancflags = --filename-in-msg=model.stan
+lp__,accept_stat__,stepsize__,treedepth__,n_leapfrog__,divergent__,energy__,beta_party.1,beta_party.2,beta_party.3,beta_party.4,alpha_turnout,beta_age_turnout.1,beta_age_turnout.2,beta_age_turnout.3,beta_age_turnout.4,beta_age_turnout.5,beta_edu_turnout.1,beta_edu_turnout.2,beta_edu_turnout.3,beta_edu_turnout.4,beta_edu_turnout.5,beta_edu_turnout.6,beta_sex_turnout.1,beta_sex_turnout.2,beta_age_edu.1,beta_age_edu.2,beta_age_edu.3,beta_age_edu.4,beta_age_edu.5,beta_age_edu.6,beta_age_edu.7,beta_age_edu.8,beta_age_edu.9,beta_age_edu.10,beta_age_edu.11,beta_age_edu.12,beta_age_edu.13,beta_age_edu.14,beta_age_edu.15,beta_age_edu.16,beta_age_edu.17,beta_age_edu.18,beta_age_edu.19,beta_age_edu.20,beta_age_edu.21,beta_age_edu.22,beta_age_edu.23,beta_age_edu.24,beta_age_edu.25,beta_age_edu.26,beta_age_edu.27,beta_age_edu.28,beta_age_edu.29,beta_age_edu.30,beta_age_sex.1,beta_age_sex.2,beta_age_sex.3,beta_age_sex.4,beta_age_sex.5,beta_age_sex.6,beta_age_sex.7,beta_age_sex.8,beta_age_sex.9,beta_age_sex.10,beta_edu_sex.1,beta_edu_sex.2,beta_edu_sex.3,beta_edu_sex.4,beta_edu_sex.5,beta_edu_sex.6,beta_edu_sex.7,beta_edu_sex.8,beta_edu_sex.9,beta_edu_sex.10,beta_edu_sex.11,beta_edu_sex.12,gamma_age.1.1,gamma_age.2.1,gamma_age.3.1,gamma_age.4.1,gamma_age.1.2,gamma_age.2.2,gamma_age.3.2,gamma_age.4.2,gamma_age.1.3,gamma_age.2.3,gamma_age.3.3,gamma_age.4.3,gamma_age.1.4,gamma_age.2.4,gamma_age.3.4,gamma_age.4.4,gamma_age.1.5,gamma_age.2.5,gamma_age.3.5,gamma_age.4.5,gamma_edu.1.1,gamma_edu.2.1,gamma_edu.3.1,gamma_edu.4.1,gamma_edu.1.2,gamma_edu.2.2,gamma_edu.3.2,gamma_edu.4.2,gamma_edu.1.3,gamma_edu.2.3,gamma_edu.3.3,gamma_edu.4.3,gamma_edu.1.4,gamma_edu.2.4,gamma_edu.3.4,gamma_edu.4.4,gamma_edu.1.5,gamma_edu.2.5,gamma_edu.3.5,gamma_edu.4.5,gamma_edu.1.6,gamma_edu.2.6,gamma_edu.3.6,gamma_edu.4.6,gamma_sex.1.1,gamma_sex.2.1,gamma_sex.3.1,gamma_sex.4.1,gamma_sex.1.2,gamma_sex.2.2,gamma_sex.3.2,gamma_sex.4.2
