@@ -1,0 +1,27 @@
+## Code Definitions
+
+- **Constituency Code**: Unique identifier for each Westminster Parliamentary constituency. (573 Constituencies)
+- **Age**:
+  - 1: Aged 16 to 24 years
+  - 2: Aged 25 to 34 years
+  - 3: Aged 35 to 49 years
+  - 4: Aged 50 to 64 years
+  - 5: Aged 65 years and over
+- **Education**:
+  - 1: No qualifications - Individuals who have not obtained any formal educational qualifications.
+  - 2: Basic Education - Includes basic schooling and lower secondary education qualifications, such as elementary level GCSEs, basic skills certifications, and entry-level vocational qualifications.
+  - 3: Secondary Education - Encompasses completion of upper secondary education, signified by a larger number of GCSEs at higher grades, A levels, and intermediate vocational qualifications. This level typically prepares students for higher education or mid-level vocational training.
+  - 4: Advanced Secondary / Pre-University - Covers advanced level qualifications that are often prerequisites for university admission, including multiple A levels, advanced diplomas, and level 3 vocational qualifications.
+  - 5: Higher Education - Represents undergraduate and postgraduate degrees, higher vocational qualifications (like HNCs, HNDs), and professional certifications. This level signifies a completion of tertiary education.
+  - 6: Other / Vocational - Includes apprenticeships, work-related qualifications, and other non-traditional qualifications either obtained in the UK or internationally, where the equivalent level may not be clearly defined.
+- **Sex**:
+  - 1: Female
+  - 2: Male
+- **Party**:
+  - 1: Labour Party
+  - 2: Conservative Party
+  - 3: Liberal Democrats
+  - 4: Other
+- **Voted**:
+  - 1: Yes, Voted
+  - 0: No, Did not Vote

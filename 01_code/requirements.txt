@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+cmdstanpy
+scikit-learn
+scipy
+tqdm
+altair
+seaborn
+vega_datasets
